@@ -12686,4 +12686,15 @@
         <Description>Start/Split/Pause/Reset with some custom settings.</Description>
         <Website>https://github.com/Istador/ASL-Omno</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>A Monster's Expedition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/wijo2/ameSplit/main/A%20Monster%27s%20Expedition.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>A very simple splitter but it works.</Description>
+        <Website>https://github.com/wijo2/ameSplit</Website>
+    </AutoSplitter>
 </AutoSplitters>
